@@ -14,6 +14,7 @@ online version: https://pnp.github.io/powershell/cmdlets/New-PnPUPABulkImportJob
 **Required Permissions**
 
 * SharePoint: Access to the SharePoint Tenant Administration site
+
 or
 * SharePoint: Sites.FullControl.All, User.ReadWrite.All
 
